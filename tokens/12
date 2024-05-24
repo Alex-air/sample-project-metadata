@@ -1,0 +1,25 @@
+{
+    "id": 12,
+    "image": "https://Alex-air.github.io/sample-project-metadata/tokens/token1.webp",
+    "token_id": "12",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Fireplume #12",
+    "description": "Fireplume Transmog",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }

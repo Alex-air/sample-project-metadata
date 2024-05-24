@@ -1,0 +1,25 @@
+{
+    "id": 7,
+    "image": "https://Alex-air.github.io/sample-project-metadata/tokens/token3.webp",
+    "token_id": "7",
+    "background_color": null,
+    "animation_url": null,
+    "youtube_url": null,
+    "name": "Dwarf Miner",
+    "description": "Dwarf Miner Transmog #7",
+    "external_url": null,
+    "attributes": [
+      {
+        "trait_type": "Hat",
+        "value": "Top Hat"
+      },
+      {
+        "trait_type": "Coat",
+        "value": "Tails"
+      },
+      {
+        "trait_type": "Neck",
+        "value": "Bow Tie"
+      }
+    ]
+  }
